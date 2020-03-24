@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="482ea05e-1064-4c9d-8b34-0a895ff89d5b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessTheMovie/com/company/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessTheMovie/com/company/Game.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,23 +84,31 @@
       <option name="project" value="LOCAL" />
       <updated>1585050633474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tested, works great">
+      <created>1585070480776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585070480776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Files added" />
     <MESSAGE value="Prepared class for title line filling and deleted method inside main class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prepared class for title line filling and deleted method inside main class" />
+    <MESSAGE value="tested, works great" />
+    <option name="LAST_COMMIT_MESSAGE" value="tested, works great" />
   </component>
   <component name="WindowStateProjectService">
     <state x="270" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585048124062">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
     <state x="270" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/69.24.1851.1056@69.24.1851.1056" timestamp="1585048124062" />
-    <state x="143" y="129" key="CommitChangelistDialog2" timestamp="1585050633427">
+    <state x="143" y="129" key="CommitChangelistDialog2" timestamp="1585070480640">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state x="143" y="129" key="CommitChangelistDialog2/69.24.1851.1056@69.24.1851.1056" timestamp="1585050633427" />
+    <state x="143" y="129" key="CommitChangelistDialog2/69.24.1851.1056@69.24.1851.1056" timestamp="1585070480640" />
     <state width="926" height="1000" key="GridCell.Tab.0.bottom" timestamp="1585070252078">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
@@ -137,10 +145,10 @@
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
     <state x="1118" y="380" key="com.intellij.ide.util.TipDialog/69.24.1851.1056@69.24.1851.1056" timestamp="1585069076718" />
-    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585070448922">
+    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585070488939">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.24.1851.1056@69.24.1851.1056" timestamp="1585070448922" />
+    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.24.1851.1056@69.24.1851.1056" timestamp="1585070488939" />
     <state x="195" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1585049580677">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
