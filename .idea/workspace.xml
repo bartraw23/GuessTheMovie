@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="482ea05e-1064-4c9d-8b34-0a895ff89d5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GuessTheMovie/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessTheMovie/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,22 +101,22 @@
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
     <state x="143" y="129" key="CommitChangelistDialog2/69.24.1851.1056@69.24.1851.1056" timestamp="1585050633427" />
-    <state width="1805" height="355" key="GridCell.Tab.0.bottom" timestamp="1585063120497">
+    <state width="926" height="1000" key="GridCell.Tab.0.bottom" timestamp="1585070252078">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="1805" height="355" key="GridCell.Tab.0.bottom/69.24.1851.1056@69.24.1851.1056" timestamp="1585063120497" />
-    <state width="1805" height="355" key="GridCell.Tab.0.center" timestamp="1585063120495">
+    <state width="926" height="1000" key="GridCell.Tab.0.bottom/69.24.1851.1056@69.24.1851.1056" timestamp="1585070252078" />
+    <state width="926" height="1000" key="GridCell.Tab.0.center" timestamp="1585070252077">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="1805" height="355" key="GridCell.Tab.0.center/69.24.1851.1056@69.24.1851.1056" timestamp="1585063120495" />
-    <state width="1805" height="355" key="GridCell.Tab.0.left" timestamp="1585063120493">
+    <state width="926" height="1000" key="GridCell.Tab.0.center/69.24.1851.1056@69.24.1851.1056" timestamp="1585070252077" />
+    <state width="926" height="1000" key="GridCell.Tab.0.left" timestamp="1585070252076">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="1805" height="355" key="GridCell.Tab.0.left/69.24.1851.1056@69.24.1851.1056" timestamp="1585063120493" />
-    <state width="1805" height="355" key="GridCell.Tab.0.right" timestamp="1585063120496">
+    <state width="926" height="1000" key="GridCell.Tab.0.left/69.24.1851.1056@69.24.1851.1056" timestamp="1585070252076" />
+    <state width="926" height="1000" key="GridCell.Tab.0.right" timestamp="1585070252077">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="1805" height="355" key="GridCell.Tab.0.right/69.24.1851.1056@69.24.1851.1056" timestamp="1585063120496" />
+    <state width="926" height="1000" key="GridCell.Tab.0.right/69.24.1851.1056@69.24.1851.1056" timestamp="1585070252077" />
     <state width="1805" height="355" key="GridCell.Tab.1.bottom" timestamp="1585063106807">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
@@ -135,10 +133,14 @@
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
     <state width="1805" height="355" key="GridCell.Tab.1.right/69.24.1851.1056@69.24.1851.1056" timestamp="1585063106806" />
-    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585063550974">
+    <state x="1118" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585069076718">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.24.1851.1056@69.24.1851.1056" timestamp="1585063550974" />
+    <state x="1118" y="380" key="com.intellij.ide.util.TipDialog/69.24.1851.1056@69.24.1851.1056" timestamp="1585069076718" />
+    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585070448922">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.24.1851.1056@69.24.1851.1056" timestamp="1585070448922" />
     <state x="195" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1585049580677">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
@@ -149,7 +151,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/Game.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
