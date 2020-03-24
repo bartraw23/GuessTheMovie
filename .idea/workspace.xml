@@ -72,33 +72,49 @@
       <option name="presentableId" value="Default" />
       <updated>1585045705326</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Files added">
+      <created>1585050479501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585050479501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Files added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="270" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585048124062">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
     <state x="270" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/69.24.1851.1056@69.24.1851.1056" timestamp="1585048124062" />
-    <state width="880" height="279" key="GridCell.Tab.0.bottom" timestamp="1585050430020">
+    <state x="143" y="129" key="CommitChangelistDialog2" timestamp="1585050479436">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="880" height="279" key="GridCell.Tab.0.bottom/69.24.1851.1056@69.24.1851.1056" timestamp="1585050430020" />
-    <state width="880" height="279" key="GridCell.Tab.0.center" timestamp="1585050430020">
+    <state x="143" y="129" key="CommitChangelistDialog2/69.24.1851.1056@69.24.1851.1056" timestamp="1585050479436" />
+    <state width="880" height="279" key="GridCell.Tab.0.bottom" timestamp="1585050599302">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="880" height="279" key="GridCell.Tab.0.center/69.24.1851.1056@69.24.1851.1056" timestamp="1585050430020" />
-    <state width="880" height="279" key="GridCell.Tab.0.left" timestamp="1585050430019">
+    <state width="880" height="279" key="GridCell.Tab.0.bottom/69.24.1851.1056@69.24.1851.1056" timestamp="1585050599302" />
+    <state width="880" height="279" key="GridCell.Tab.0.center" timestamp="1585050599302">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="880" height="279" key="GridCell.Tab.0.left/69.24.1851.1056@69.24.1851.1056" timestamp="1585050430019" />
-    <state width="880" height="279" key="GridCell.Tab.0.right" timestamp="1585050430020">
+    <state width="880" height="279" key="GridCell.Tab.0.center/69.24.1851.1056@69.24.1851.1056" timestamp="1585050599302" />
+    <state width="880" height="279" key="GridCell.Tab.0.left" timestamp="1585050599302">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state width="880" height="279" key="GridCell.Tab.0.right/69.24.1851.1056@69.24.1851.1056" timestamp="1585050430020" />
-    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585050455791">
+    <state width="880" height="279" key="GridCell.Tab.0.left/69.24.1851.1056@69.24.1851.1056" timestamp="1585050599302" />
+    <state width="880" height="279" key="GridCell.Tab.0.right" timestamp="1585050599302">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
-    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.24.1851.1056@69.24.1851.1056" timestamp="1585050455791" />
+    <state width="880" height="279" key="GridCell.Tab.0.right/69.24.1851.1056@69.24.1851.1056" timestamp="1585050599302" />
+    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585050491997">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state x="305" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.24.1851.1056@69.24.1851.1056" timestamp="1585050491997" />
     <state x="195" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1585049580677">
       <screen x="69" y="24" width="1851" height="1056" />
     </state>
