@@ -4,9 +4,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Main {
+public class Linefiller {
     //Method that prepares array of strings for titles
-    public static String[] linesFiller(String fileName) throws FileNotFoundException{
+    public static String[] linesFiller(String fileName) throws FileNotFoundException {
         File file = new File(fileName);
         Scanner scanner = new Scanner(file);
         int counter = 0;
@@ -28,17 +28,4 @@ public class Main {
         return titles;
     }
 
-
-    public static void main(String[] args) throws FileNotFoundException {
-        //random number defining index of a movie
-        int movieIndex=100;
-        while(movieIndex>24){
-        movieIndex= (int) (Math.random()*100);}
-
-        // getting title from title String array
-        String title =linesFiller("titles.txt")[movieIndex];
-        String title2 =Linefiller.linesFiller("titles.txt")[movieIndex];
-        System.out.println(title);
-        System.out.println(title2);
-    }
 }
