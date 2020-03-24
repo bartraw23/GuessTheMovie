@@ -8,7 +8,7 @@ public class Game {
         char guessedLetter = ' ';
         boolean result = false;
         boolean anyMatch =false;
-        System.out.println("Welcome in the guessing game");
+        //System.out.println("Welcome in the guessing game");
         //System.out.println("you are guessing: ");
         //System.out.println(displayedTitle);
 
@@ -39,7 +39,7 @@ public class Game {
                 Scanner scanner1 = new Scanner(System.in);
                 System.out.println("Want to check whole title? [y/!y]");
                 String answer = scanner1.nextLine();
-                if (answer.equals("y")){
+                if (answer.equals("y") || i==1){
                     System.out.println("Go on:");
                     Scanner scanner2 = new Scanner(System.in);
                     String titleGuessedString = scanner2.nextLine();
@@ -54,8 +54,9 @@ public class Game {
             }else{
                 System.out.println("You didn't guess UNLUCKY");
             }
-
-
+            if(i==1 && !result){
+                System.out.println("you lost the game huehuehueheuehueeheuehueheuheuhehue");
+            }
         }
         return result;
     }
